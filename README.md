@@ -116,9 +116,19 @@ L’objectif : créer un jeu web stratégique, lent, addictif, mobile-friendly, 
 
 ### 🎛️ AIBeatMaker Studio
 
-**AIBeatMaker Studio** est un projet créatif orienté musique assistée par IA, pensé comme un outil moderne pour générer, éditer, prévisualiser et exporter des boucles ou morceaux instrumentaux.
+**AIBeatMaker Studio** est un projet créatif orienté musique assistée par IA, pensé comme un outil moderne pour générer, éditer, prévisualiser et exporter des boucles, instrumentales ou idées musicales.
 
 L’objectif : construire une expérience proche d’un mini-studio musical, avec une interface claire, des contrôles rapides, une logique de génération audio et un workflow pensé pour les créateurs.
+
+Ce projet ne se limite pas à une simple expérimentation IA : il vise à transformer la génération musicale en vrai outil utilisable, avec une logique produit, un backend local, un pipeline audio et une interface pensée pour produire rapidement des résultats exploitables.
+
+**Démo audio :**
+
+[![SoundCloud Sample](https://img.shields.io/badge/SoundCloud-Audio%20Sample-111111?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/lens-93/instru-west-coast-2-93bpm-making-with-my-software-ia-free-to-use-or-download)
+
+**Échantillon présenté :**  
+*Instru West Coast 2 — 93 BPM*  
+Instrumentale créée avec mon workflow logiciel IA, publiée comme démonstration sonore du potentiel d’AIBeatMaker Studio.
 
 **Stack principale :**
 
@@ -145,7 +155,8 @@ L’objectif : construire une expérience proche d’un mini-studio musical, ave
 - interface type studio moderne ;
 - backend local ;
 - logique de jobs de génération ;
-- intégration de modèles IA audio.
+- intégration de modèles IA audio ;
+- workflow pensé pour beatmakers, créateurs de contenu et producteurs indépendants.
 
 **Ce que ce projet démontre :**
 
@@ -155,10 +166,9 @@ L’objectif : construire une expérience proche d’un mini-studio musical, ave
 - traitement audio ;
 - expérimentation avec des modèles génératifs ;
 - capacité à transformer une idée IA en logiciel utilisable ;
-- vision produit autour de la création musicale.
-
----
-
+- vision produit autour de la création musicale ;
+- capacité à produire un résultat sonore concret, pas seulement une interface ou un prototype.
+  
 ### 🛡️ LSVAC Anti-Cheat
 
 **Système de protection pour serveurs FiveM/QBCore**, conçu pour renforcer la sécurité, surveiller les comportements suspects et protéger les ressources critiques.
