@@ -1,169 +1,341 @@
-# 👋 Hey, I'm Lens93
+<div align="center">
 
-**Full-stack developer focused on FiveM systems, self-hosted infrastructure, defensive security tools and local AI workflows.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=Lens93&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20FiveM%20Engineer%20%C2%B7%20Security%20Builder%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17" />
 
-I build practical software: game systems, automation tools, web platforms, server security layers and experimental AI-powered products.
+<br/>
 
-My approach is simple:
-**clean architecture, maintainable code, useful documentation, and production-minded development.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+FiveM+systems%2C+security+tools+and+self-hosted+platforms;Focused+on+clean+architecture%2C+maintainability+and+real-world+usage;Web+apps+%C2%B7+QBCore+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Local+AI+%C2%B7+Defensive+security" />
+
+<br/><br/>
+
+<a href="https://github.com/Lens931">
+  <img src="https://img.shields.io/badge/GitHub-Lens931-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://lens93.dev">
+  <img src="https://img.shields.io/badge/Portfolio-lens93.dev-111111?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Location-France-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-French-111111?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🧭 Focus Areas
+## 🧭 About
 
-* 🎮 FiveM / QBCore development
-* 🌐 Full-stack web applications
-* 🛡️ Defensive security tooling
-* 🐳 Linux, Docker & self-hosted infrastructure
-* 🤖 Local AI automation
-* 🎵 Creative AI workflows
-* ⚙️ Backend systems and APIs
+I’m **Lens93**, an independent developer building practical systems around **FiveM/QBCore**, **full-stack web apps**, **defensive security**, **self-hosted infrastructure** and **local AI workflows**.
+
+I focus on software that is useful, documented and maintainable.
+
+> Clean systems. Practical tooling. Measured progress.
 
 ---
 
-## 🚀 Current Projects
+## 📌 Public GitHub Snapshot
 
-### 🥃 Omerta Empire
+> Snapshot based on public GitHub data — **14 June 2026**
 
-A persistent browser-based mafia strategy game inspired by classic organized crime management games.
+<div align="center">
+
+| Metric                 |                               Value |
+| ---------------------- | ----------------------------------: |
+| Public repositories    |                               **8** |
+| Followers              |                               **1** |
+| Following              |                               **4** |
+| Public projects        |                               **0** |
+| Packages               |                               **0** |
+| Visible main languages | **Python · TypeScript · C++ · Lua** |
+| Profile achievement    |                         **YOLO ×2** |
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 FiveM / QBCore Systems
+
+Production-minded server resources, gameplay systems, NUI interfaces and backend integrations for roleplay and freeroam servers.
+
+**Focus**
+
+* QBCore resources
+* Lua client/server logic
+* NUI interfaces
+* SQL persistence
+* Discord logging
+* Performance-conscious design
+
+</td>
+<td width="50%">
+
+### 🛡️ Defensive Security
+
+Security tooling built around monitoring, detection, logging and infrastructure hardening.
+
+**Focus**
+
+* Honeypots
+* Threat scoring
+* Fail2Ban integration
+* Server monitoring
+* Integrity checks
+* Alert pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Platforms
+
+Web applications, dashboards, APIs and browser-based products.
 
 **Stack**
 
-`React` • `TypeScript` • `FastAPI` • `PostgreSQL` • `Redis` • `Docker`
+* React
+* TypeScript
+* FastAPI
+* PostgreSQL
+* Redis
+* Docker
+
+</td>
+<td width="50%">
+
+### 🤖 Local AI Workflows
+
+AI-assisted tools and automation systems designed to run locally or in controlled environments.
 
 **Focus**
 
-* Persistent progression
-* Strategic gameplay systems
-* Web-based game architecture
-* Scalable backend foundations
+* Local LLM workflows
+* Audio generation tools
+* Automation pipelines
+* AI-assisted development
+* Prompt-to-system architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎛️ AIBeatMaker Studio
+## 🧪 Featured Projects
 
-An AI-powered music generation workstation designed for creators, producers and beatmakers.
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 PLANG
+
+A deterministic AI workflow execution standard.
+
+**Public stats**
+
+| Metric        |           Value |
+| ------------- | --------------: |
+| Commits       |          **15** |
+| Stars         |           **0** |
+| Forks         |           **0** |
+| Issues        |           **0** |
+| Pull requests |           **0** |
+| Main language | **Python 100%** |
 
 **Focus**
 
-* AI-assisted music generation
-* Audio processing workflows
-* Fast preview systems
-* Export pipelines
-* Local AI integration
+* Deterministic AI workflows
+* Strict JSON intermediate representation
+* Plugin-based runtime model
+* Replayable execution traces
+* Security-conscious workflow design
 
----
+</td>
+<td width="50%">
+
+### 🕷️ RedTigerTrap
+
+Defensive honeypot and threat intelligence concept for detecting suspicious reconnaissance.
+
+**Focus**
+
+* Bot detection
+* Scanner fingerprinting
+* Threat scoring
+* Fail2Ban integration
+* Security analytics
+* Discord alerting
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🛡️ LSVAC
 
-A protection and monitoring framework for FiveM / QBCore servers.
+FiveM/QBCore protection and monitoring framework.
 
 **Focus**
 
 * Server-side monitoring
 * Integrity checks
 * Suspicious behavior detection
-* Discord alerting
-* Performance-conscious design
+* Discord alerts
+* Low-overhead logic
+* Defensive-first enforcement
 
-> Built with a defensive-first mindset: visibility, logging and control before aggressive enforcement.
+</td>
+<td width="50%">
+
+### 🥃 Omerta Empire
+
+Persistent browser-based mafia strategy game inspired by classic organized crime management games.
+
+**Stack**
+
+* React
+* TypeScript
+* FastAPI
+* PostgreSQL
+* Redis
+* Docker
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🕷️ RedTigerTrap
+## 🧰 Tech Stack
 
-A defensive honeypot and threat intelligence project for detecting suspicious web reconnaissance.
-
-**Focus**
-
-* Bot and scanner detection
-* Threat scoring
-* Fail2Ban integration
-* Web attack pattern logging
-* Security analytics
-
----
-
-## 💻 Tech Stack
+<div align="center">
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite)
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,sqlite,nodejs" />
 
 ### Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker)
-![Apache](https://img.shields.io/badge/Apache-111111?style=for-the-badge\&logo=apache)
-![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge\&logo=nginx)
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github" />
 
-### Game Development
+### Game Development / Scripting
 
-![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge\&logo=lua)
-![FiveM](https://img.shields.io/badge/FiveM-111111?style=for-the-badge)
-![QBCore](https://img.shields.io/badge/QBCore-111111?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=lua,cpp" />
 
-### AI & Automation
+### AI / Media / Automation
 
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-111111?style=for-the-badge\&logo=ffmpeg)
-![Python](https://img.shields.io/badge/Automation-111111?style=for-the-badge\&logo=python)
+<img src="https://skillicons.dev/icons?i=pytorch,python" />
+
+</div>
 
 ---
 
-## 🧩 What I Like Building
+## 📊 GitHub Analytics
 
-I enjoy building systems that are useful, understandable and maintainable.
+<div align="center">
 
-* FiveM gameplay systems
-* QBCore server resources
-* Custom NUI interfaces
-* Security dashboards
-* Honeypots and monitoring tools
-* Self-hosted web platforms
-* Local AI assistants and automation tools
-* Backend APIs and database-driven applications
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Lens931&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lens931&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
----
+<br/><br/>
 
-## 📌 Development Values
+<img src="https://streak-stats.demolab.com?user=Lens931&theme=tokyonight&hide_border=true" />
 
-* Keep systems readable
-* Avoid unnecessary complexity
-* Document important decisions
-* Prefer clean configuration
-* Build with security in mind
-* Optimize where it actually matters
-* Improve through testing, feedback and iteration
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lens931&theme=tokyonight" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Public Repository Map
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lens931\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lens931\&layout=compact\&theme=tokyonight\&hide_border=true)
+| Repository       | Type                      | Main Language | Status      |
+| ---------------- | ------------------------- | ------------: | ----------- |
+| `Lens931`        | Profile README            |      Markdown | Active      |
+| `PLANG`          | AI workflow standard      |        Python | Active      |
+| `openclaw`       | AI assistant fork         |    TypeScript | Public fork |
+| `ChaosModV`      | GTA V mod fork            |           C++ | Public fork |
+| `RageUI`         | GTA-style UI library fork |           Lua | Public fork |
+| `qb-clawmachine` | QBCore resource fork      |           Lua | Public fork |
+| `fivem`          | Cfx.re framework fork     |           C++ | Public fork |
+| `gta5-rampage`   | GTA V trainer fork        |    TypeScript | Public fork |
+
+</div>
+
+---
+
+## 🧱 Development Values
+
+```txt
+Readable code > clever code
+Documentation > confusion
+Security-first > patch later
+Measured progress > empty hype
+Production mindset > "works on my machine"
+```
+
+---
+
+## 🎯 What I Build
+
+<div align="center">
+
+| Area              | What I like building                                   |
+| ----------------- | ------------------------------------------------------ |
+| 🎮 FiveM          | QBCore systems, gameplay resources, NUI interfaces     |
+| 🌐 Web            | APIs, dashboards, browser-based apps                   |
+| 🛡️ Security      | Honeypots, detection tools, monitoring systems         |
+| 🐳 Infrastructure | Dockerized services, Linux servers, self-hosting       |
+| 🤖 AI             | Local assistants, creative tools, automation workflows |
+| 🎵 Audio          | AI music tools, export pipelines, FFmpeg workflows     |
+
+</div>
+
+---
+
+## 📈 Roadmap
+
+* Publish more clean FiveM/QBCore community resources
+* Improve documentation and install guides
+* Release production-ready examples
+* Add screenshots and short demos to public repositories
+* Maintain a security-first and no-obfuscation approach where possible
 
 ---
 
 ## 🌍 Connect
 
-🌐 Portfolio: https://lens93.dev
-💬 Discord: Lens93
-📦 GitHub: https://github.com/Lens931
+<div align="center">
+
+<a href="https://lens93.dev">
+  <img src="https://img.shields.io/badge/Portfolio-lens93.dev-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://github.com/Lens931">
+  <img src="https://img.shields.io/badge/GitHub-Lens931-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Discord:** `Lens93`
+
+</div>
 
 ---
 
-> Building practical systems, improving step by step, and letting the work speak for itself.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,45:7c3aed,100:0f172a&section=footer" />
+
+</div>
