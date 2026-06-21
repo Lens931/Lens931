@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:4c1d95,100:06b6d4&text=Lens93&fontColor=ffffff&fontSize=68&fontAlignY=37&desc=FiveM%20%2F%20QBCore%20Developer%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Server%20Security%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:4c1d95,100:0891b2&text=Lens93&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Self-taught%20developer%20%C2%B7%20FiveM%20%2F%20QBCore%20%C2%B7%20Server%20Infrastructure%20%C2%B7%20Defensive%20Security&descAlignY=58&descSize=15" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+clean+and+production-minded+FiveM%2FQBCore+resources;Performance-aware+scripting+%C2%B7+Secure+server+logic+%C2%B7+Clean+NUI+interfaces;Lua+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Local+AI" />
-
-<br/><br/>
 
 <a href="https://github.com/Lens931">
   <img src="https://img.shields.io/badge/GitHub-Lens931-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,200 +13,203 @@
 <img src="https://img.shields.io/badge/Focus-FiveM%20%7C%20QBCore%20%7C%20Security-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based%20in-France-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Lens931&style=for-the-badge&color=7c3aed&label=Profile+views" />
-
 </div>
 
 ---
 
-## About
+## Hi, I’m Lens93
 
-I’m **Lens93**, an independent developer focused on building practical and maintainable systems around **FiveM/QBCore**, **full-stack web development**, **server security**, **self-hosted infrastructure** and **local AI workflows**.
+I’m a self-taught developer from France.
 
-My main public direction is simple: create clean, documented and useful resources that can be understood, configured and improved by other developers.
+Most of my work is around **FiveM/QBCore**, server infrastructure, defensive security, web tooling and local AI experiments.  
+I like building systems that are practical, readable and useful in real environments — not just impressive on a screenshot.
+
+I’m still learning, testing and improving every day, but I try to keep one simple direction:
 
 ```txt
-Clean code.
-Useful systems.
-Measured progress.
-Production-minded development.
+Build useful things.
+Keep the code understandable.
+Share what can help others.
+Improve quietly, step by step.
 ```
 
 ---
 
-## Main Focus
+## What I work on
 
-<table>
-<tr>
-<td width="50%">
+### FiveM / QBCore
 
-### FiveM / QBCore Development
+This is where I spend most of my time.
 
-I build gameplay systems, QBCore resources, NUI interfaces and server-side logic for FiveM environments.
+I build and improve resources for FiveM servers, with a focus on clean configuration, server-side logic, NUI interfaces, performance and moderation tools.
 
-**Main areas**
+Some areas I work with:
 
-* Lua client/server development
-* QBCore resources
-* NUI interfaces
-* SQL persistence
-* Gameplay systems
-* Performance-aware scripting
-* Discord logging and monitoring
-* Configurable production resources
-
-</td>
-<td width="50%">
-
-### Server Security & Monitoring
-
-I work on defensive tooling focused on visibility, logging, detection and infrastructure hardening.
-
-**Main areas**
-
-* Honeypots
-* Web scanner detection
-* Threat scoring
-* Fail2Ban / CrowdSec workflows
-* Discord alerting
-* Integrity checks
-* Linux server hardening
-* Reverse proxy security
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Full-Stack Development
-
-I build APIs, dashboards, admin panels and browser-based systems with a practical approach.
-
-**Main stack**
-
-* React
-* TypeScript
-* Python
-* FastAPI
-* PostgreSQL
-* Redis
-* Docker
-* REST APIs
-
-</td>
-<td width="50%">
-
-### Local AI & Automation
-
-I experiment with local AI tools, assistant workflows, automation scripts and audio/media pipelines.
-
-**Main areas**
-
-* Local LLM workflows
-* AI-assisted development
-* Automation scripts
-* Prompt-to-system architecture
-* Self-hosted AI experiments
-* Audio and media tooling
-* FFmpeg workflows
-
-</td>
-</tr>
-</table>
+- Lua client/server scripting
+- QBCore resources
+- NUI interfaces
+- SQL persistence
+- Admin and moderation tools
+- Discord logs and webhooks
+- Performance-aware scripts
+- Gameplay systems for RP / freeroam environments
 
 ---
 
-## Featured Work
+### Server security & infrastructure
 
-<div align="center">
+I’m also interested in server protection, monitoring and visibility.
 
-<table>
-<tr>
-<td width="50%">
+Not from a “magic security tool” point of view, but from a practical one: logs, alerts, hardening, suspicious behavior detection and safer infrastructure habits.
+
+Things I work on:
+
+- Linux server administration
+- Docker-based setups
+- Apache / Nginx reverse proxy configs
+- Fail2Ban / CrowdSec workflows
+- Web scanner detection
+- Honeypots
+- Discord alerting
+- Integrity checks
+- Basic defensive automation
+
+---
+
+### Web development & tooling
+
+I build small web platforms, dashboards, APIs and internal tools when they help a project become easier to manage.
+
+Main tools I use or experiment with:
+
+- React / TypeScript
+- JavaScript
+- Python
+- FastAPI
+- Node.js
+- PostgreSQL / SQLite
+- Redis
+- Docker
+- REST APIs
+
+---
+
+### Local AI & automation
+
+I’m interested in local AI workflows, assistant-like tools and automation systems that can help speed up development without replacing understanding.
+
+I use AI mostly as a way to structure ideas, debug faster, document better and turn rough concepts into cleaner systems.
+
+Areas I explore:
+
+- Local LLM workflows
+- AI-assisted development
+- Prompt-to-system architecture
+- Automation scripts
+- Audio / media workflows
+- FFmpeg tooling
+- Self-hosted experiments
+
+---
+
+## Featured projects
+
+### Visionary Shield
+
+Open-source FiveM/QBCore admin and security toolkit.
+
+The goal is simple: provide a transparent, auditable and practical defensive layer for server owners who need better visibility, moderation tools and staff workflows.
+
+It includes:
+
+- Compact NUI admin interface
+- Player inspection tools
+- Staff actions and moderation workflow
+- Runtime monitoring
+- Screenshot evidence support
+- Config-driven behavior
+- QBCore-friendly structure
+- Documentation-first approach
+
+> Security should not be a luxury.  
+> A small server should still be able to understand, audit and improve the tools it depends on.
+
+Repository:  
+https://github.com/Lens931/visionary-shield
+
+---
 
 ### qb-marketplace-community
 
-Open-source FiveM/QBCore marketplace resource built to feel clean, configurable and production-minded.
+A community-oriented FiveM/QBCore marketplace resource.
 
-**Highlights**
+The idea behind this project is to provide a clean, configurable marketplace system that can be understood and adapted by other server owners.
 
-* QBCore integration
-* Marketplace listings
-* Sales history
-* Withdrawable earnings
-* Configurable economy
-* SQL persistence
-* Discord logs
-* Multilingual structure
-* Clean NUI direction
+Main focus:
 
-</td>
-<td width="50%">
+- QBCore integration
+- Marketplace listings
+- Sales history
+- Withdrawable earnings
+- SQL persistence
+- Discord logs
+- Configurable economy
+- Clean NUI direction
+
+Repository:  
+https://github.com/Lens931/qb-marketplace-community
+
+---
 
 ### PLANG
 
-Experimental AI workflow standard focused on turning prompts into clearer systems, structures and repeatable development flows.
+An experimental project around prompt structure, AI workflows and turning ideas into clearer systems.
 
-**Highlights**
+This project reflects how I like to work with AI: not just asking for output, but trying to create repeatable workflows, better structure and cleaner development direction.
 
-* AI workflow concepts
-* Python-based tooling
-* Prompt architecture
-* Automation direction
-* Documentation-first approach
-* Practical experimentation
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Lens931/qb-marketplace-community">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lens931&repo=qb-marketplace-community&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Lens931/PLANG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lens931&repo=PLANG&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+Repository:  
+https://github.com/Lens931/PLANG
 
 ---
 
-## What I Build
+## My technical direction
 
-<div align="center">
+I don’t pretend to know everything.  
+Most of my progress comes from testing, breaking things, fixing them, documenting better, and slowly improving the way I build.
 
-| Area           | What I build                                                              |
-| -------------- | ------------------------------------------------------------------------- |
-| FiveM / QBCore | Gameplay resources, RP systems, freeroam tools, NUI apps, server logic    |
-| Web Platforms  | Dashboards, APIs, admin panels, browser apps                              |
-| Security       | Honeypots, alert systems, suspicious activity detection, hardening layers |
-| Infrastructure | Docker stacks, Linux servers, Apache/Nginx, reverse proxies, self-hosting |
-| Local AI       | Assistant workflows, local LLM experiments, automation pipelines          |
-| Media / Audio  | FFmpeg workflows, AI music concepts, generation pipelines                 |
+What I care about:
 
-</div>
+| Value | Meaning |
+| --- | --- |
+| Clarity | Code and documentation should be understandable later |
+| Usefulness | A project should solve a real problem |
+| Security | Logs, validation and visibility matter |
+| Performance | Avoid unnecessary loops, noise and heavy client usage |
+| Maintainability | Clean structure makes future work easier |
+| Humility | Build, learn, improve, repeat |
+| Open-source spirit | Share what can help others when possible |
 
 ---
 
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
-### Frontend
+### Languages & scripting
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
+<img src="https://skillicons.dev/icons?i=lua,js,ts,python,html,css" />
 
 <br/><br/>
 
-### Backend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=react,vite" />
+
+<br/><br/>
+
+### Backend & data
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,sqlite" />
 
 <br/><br/>
 
@@ -218,91 +217,24 @@ Experimental AI workflow standard focused on turning prompts into clearer system
 
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,apache,git,github" />
 
-<br/><br/>
-
-### Game Development / Scripting
-
-<img src="https://skillicons.dev/icons?i=lua,cpp" />
-
-<br/><br/>
-
-### AI / Automation
-
-<img src="https://skillicons.dev/icons?i=pytorch,python" />
-
 </div>
 
 ---
 
-## Public Repository Direction
+## What I’m improving right now
 
-My public GitHub is being shaped as a technical showcase around resources that are useful, readable and easy to improve.
-
-Current direction:
-
-* Publish cleaner FiveM/QBCore resources
-* Improve documentation and installation guides
-* Add screenshots and short demos to selected repositories
-* Build reusable NUI and server-side patterns
-* Share defensive security tooling
-* Document local AI and automation experiments
-* Keep public code understandable and maintainable
+- Cleaner FiveM/QBCore resources
+- Better NUI interfaces with lower overhead
+- More readable public documentation
+- Practical server-side validation
+- Defensive tooling for smaller communities
+- Local AI workflows for development
+- Self-hosted infrastructure habits
+- Open-source releases that are easier to audit and improve
 
 ---
 
-## Repository Map
-
-<div align="center">
-
-| Repository                 | Type                | Main focus                     | Status      |
-| -------------------------- | ------------------- | ------------------------------ | ----------- |
-| `qb-marketplace-community` | FiveM resource      | QBCore marketplace system      | Active      |
-| `PLANG`                    | AI workflow project | Prompt-to-system architecture  | Active      |
-| `Lens931`                  | Profile README      | GitHub profile showcase        | Active      |
-| `openclaw`                 | Public fork         | AI assistant experimentation   | Public fork |
-| `ChaosModV`                | Public fork         | GTA V modding research         | Public fork |
-| `RageUI`                   | Public fork         | GTA-style UI library reference | Public fork |
-| `qb-clawmachine`           | Public fork         | QBCore resource reference      | Public fork |
-| `fivem`                    | Public fork         | Cfx.re framework reference     | Public fork |
-| `gta5-rampage`             | Public fork         | GTA V tooling reference        | Public fork |
-
-</div>
-
----
-
-## Development Values
-
-<div align="center">
-
-| Value                  | Meaning                                                     |
-| ---------------------- | ----------------------------------------------------------- |
-| Readable code          | Code should stay understandable after the first build       |
-| Useful tools           | Projects should solve real problems, not just look good     |
-| Security-first mindset | Logs, validation and visibility matter                      |
-| Maintainability        | Clean folders, clean configuration and clear documentation  |
-| Performance awareness  | Avoid unnecessary loops, heavy client usage and noisy logic |
-| No empty hype          | Let structure, documentation and results speak              |
-| Iteration              | Build, test, improve, repeat                                |
-
-</div>
-
----
-
-## Technical Identity
-
-```txt
-Independent developer
-FiveM / QBCore engineer
-Full-stack builder
-Server security enthusiast
-Self-hosting practitioner
-Local AI experimenter
-Automation-focused problem solver
-```
-
----
-
-## GitHub Analytics
+## GitHub activity
 
 <div align="center">
 
@@ -313,33 +245,7 @@ Automation-focused problem solver
 
 <img src="https://streak-stats.demolab.com?user=Lens931&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lens931&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lens931&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lens931&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lens931&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
-
----
-
-## Current Roadmap
-
-* Release more polished FiveM/QBCore resources
-* Add screenshots, demos and configuration examples
-* Improve public documentation quality
-* Build reusable NUI templates and backend patterns
-* Publish defensive security experiments
-* Document self-hosted infrastructure setups
-* Share local AI and automation workflows
-* Keep improving quietly, consistently and publicly
 
 ---
 
@@ -364,10 +270,10 @@ Automation-focused problem solver
 
 <div align="center">
 
-### Building practical systems, improving quietly, and letting the work speak.
+### Building practical systems, learning in public, and improving quietly.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,45:7c3aed,100:020617&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0891b2,45:4c1d95,100:020617&section=footer" />
 
 </div>
